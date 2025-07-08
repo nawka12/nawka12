@@ -1,7 +1,7 @@
 <!-- Hi, I'm nawka12! 👋 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70000&background=00000000&random=false&width=435&lines=Hi%2C+I'm+KayfaHaarukku!+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F70000&background=00000000&random=false&width=435&lines=Hi%2C+I'm+Kayfa!+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
 
