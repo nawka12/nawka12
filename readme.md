@@ -16,23 +16,23 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  I'm a passionate developer from [Your Location]. I love working on [Your Interests] and exploring new technologies.
+  I'm a passionate developer from Indonesia. I love working on Generative AI and exploring new technologies.
   <br /><br />
-  - 🔭 I’m currently working on [Your Project]
+  - 🔭 I’m currently working on Animagine XL with CagliostroLab.
   <br />
-  - 🌱 I’m currently learning [What you are learning]
+  - 🌱 I’m currently learning everything.
   <br />
-  - 👯 I’m looking to collaborate on [What you want to collaborate on]
+  - 👯 I’m looking to collaborate on Image Generation.
   <br />
-  - 🤔 I’m looking for help with [Where you need help]
+  - 🤔 I’m looking for help with Flutter.
   <br />
-  - 💬 Ask me about [What you can help with]
+  - 💬 Ask me about SDXL Training
   <br />
-  - 📫 How to reach me: [Your Email/Social Media]
+  - 📫 How to reach me: @kayfahaarukku on Twitter/X
   <br />
-  - 😄 Pronouns: [Your Pronouns]
+  - 😄 Pronouns: He/Him
   <br />
-  - ⚡ Fun fact: [A fun fact about you]
+  - ⚡ Fun fact: I made this with Cursor. Sorrry.
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,express,flutter,mysql,docker,git,github,vscode&perline=4" />
   </a>
 </p>
 
@@ -81,17 +81,11 @@
 <a href="https://www.linkedin.com/in/your_username" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/your_username" target="_blank">
+<a href="https://twitter.com/kayfahaarukku" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/your_username" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/your_username" target="_blank">
+<a href="https://instagram.com/kayfahaarukku" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/c/your_username" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23c4302b.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </p>
 
