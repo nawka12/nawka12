@@ -28,7 +28,7 @@
   <br />
   - 💬 Ask me about SDXL Training
   <br />
-  - 📫 How to reach me: @kayfahaarukku on Twitter/X
+  - 📫 How to reach me: @kayfahaarukku on X
   <br />
   - 😄 Pronouns: He/Him
   <br />
@@ -70,8 +70,8 @@
 ### CONNECT WITH ME
 
 <p align="center">
-<a href="https://twitter.com/kayfahaarukku" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/kayfahaarukku" target="_blank">
+<img src=https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white alt="X" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/kayfahaarukku" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -83,5 +83,5 @@
 ### 📊 Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nawka12/count.svg" alt="nawka12:: Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=nawka12&label=Profile%20views&color=F70000" alt="Profile views" />
 </p>
