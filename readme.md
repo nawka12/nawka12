@@ -1,8 +1,6 @@
 <!-- Hi, I’m nawka12! 👋 -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=BDABE3&background=00000000&random=false&width=435&lines=Hi%2C+I’m+Kayfa!+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=BDABE3&background=00000000&random=false&width=435&lines=Hi%2C+I’m+Kayfa!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -34,17 +32,15 @@
 
 <br/>
 
-<div align="center">
+<h3 align="center">🎴 Animagine XL 4.0</h3>
 
-### 🎴 Animagine XL 4.0
+<p align="center">Flagship anime image generation model · CagliostroLab</p>
 
-Flagship anime image generation model · CagliostroLab
-
+<p align="center">
 <a href="https://huggingface.co/cagliostrolab/animagine-xl-4.0">
   <img src="https://img.shields.io/badge/View%20on%20HuggingFace-BDABE3?style=for-the-badge&logo=huggingface&logoColor=2d2d2d" alt="HuggingFace" />
 </a>
-
-</div>
+</p>
 
 <div align="center">── ✦ 技術 · TECH STACK ✦ ──</div>
 
@@ -101,11 +97,11 @@ Flagship anime image generation model · CagliostroLab
 <br/>
 
 <p align="center">
-  <a href="https://x.com/kifakku" target="_blank">
+  <a href="https://x.com/kifakku" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X%20%40kifakku-BDABE3?style=for-the-badge&logo=x&logoColor=2d2d2d" alt="X" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/kayfahaarukku" target="_blank">
+  <a href="https://instagram.com/kayfahaarukku" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-BDABE3?style=for-the-badge&logo=instagram&logoColor=2d2d2d" alt="Instagram" />
   </a>
 </p>
