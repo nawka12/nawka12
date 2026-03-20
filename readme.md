@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nawka12&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=nawka12&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
   </a>
 </p>
 
