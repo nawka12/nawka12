@@ -1,9 +1,9 @@
 <!-- Hi, I’m nawka12! 👋 -->
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=BDABE3&background=00000000&random=false&width=435&lines=Hi%2C+I’m+Kayfa!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML%20Developer-BDABE3?style=for-the-badge&labelColor=BDABE3&color=BDABE3&logoColor=2d2d2d" />
